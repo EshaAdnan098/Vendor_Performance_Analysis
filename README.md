@@ -4,3 +4,9 @@ This project focuses on analyzing vendor performance and sales data for an inven
 
 The project showcases skills in Python, SQL, data analysis, ETL processes, and dashboard visualization using Power BI.
 
+Key Acheivements
+
+## **Exploratory Data Analysis (EDA) Highlights**
+
+### Summary Statistics
+(images/summary statistics.png)
