@@ -9,4 +9,4 @@ Key Acheivements
 ## **Exploratory Data Analysis (EDA) Highlights**
 
 ### Summary Statistics
-![Sales Trends](images/summary statistics.png)
+![Sales Trends](images/summary_statistics.png)
