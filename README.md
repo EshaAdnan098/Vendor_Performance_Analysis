@@ -68,6 +68,45 @@ To enhance the reliability of insights, inconsistent data points were removed ba
 
 ## 🏢 Top Vendors by Sales & Purchase Contribution
 - The top 10 vendors contribute **65.69%** of total purchases, while the remaining vendors contribute only **34.31%**.  
-- Over-reliance on a few vendors may introduce risks such as supply chain disruptions, highlighting the need for diversification.  
+- Over-reliance on a few vendors may introduce risks such as supply chain disruptions, highlighting the need for diversification.
+
 ![pie chart](images/pie_chart.png)
 
+### Impact of Bulk Purchasing on Cost Savings
+* **Unit Cost Reduction:** Vendors purchasing in large quantities receive a **72% lower unit cost** ($10.78 per unit) compared to higher costs for smaller orders.
+* **Volume Incentives:** Bulk pricing strategies encourage larger order sizes, effectively increasing total sales volume.
+* **Profitability Optimization:** Scaled purchasing allows the business to maintain strong profit margins while offering competitive market pricing.
+
+![unit](images/unit_purchase_price.png)
+
+### Identifying Vendors with Low Inventory Turnover
+
+* **Total Unsold Inventory Capital:** $2.71M
+* **Impact of Slow-Moving Inventory:** Increases storage costs, reduces cash flow efficiency, and negatively affects overall profitability.
+* **Strategic Benefit:** Identifying vendors with low inventory turnover enables better stock management and minimizes financial strain.
+
+### Profit Margin Comparison: High vs. Low-Performing Vendors
+
+* **Top Vendors' Profit Margin (95% CI):** (30.74%, 31.61%), Mean: 31.17%
+* **Low Vendors' Profit Margin (95% CI):** (40.48%, 42.62%), Mean: 41.55%
+* **Performance Analysis:** Low-performing vendors maintain higher margins but struggle with sales volumes, indicating potential pricing inefficiencies or market reach issues.
+* **Actionable Insights for Top-Performing Vendors:** Optimize profitability by adjusting pricing, reducing operational costs, or offering bundled promotions.
+
+![profit margin](images/profit_margin_distribution.png)
+
+### Statistical Validation of Profit Margin Differences
+
+* **Hypothesis Testing:**
+    * **Null Hypothesis ($H_0$):** No significant difference in profit margins between top and low-performing vendors.
+    * **Alternative Hypothesis ($H_1$):** A significant difference exists in profit margins between the two vendor groups.
+* **Result:** The null hypothesis is rejected, confirming that the two groups operate under distinctly different profitability models.
+* **Implication:** High-margin vendors may benefit from better pricing strategies, while top-selling vendors should focus on cost efficiency.
+
+### Final Recommendations
+
+* **Price Re-evaluation:** Re-evaluate pricing for low-sales, high-margin brands to boost sales volume without sacrificing profitability.
+* **Vendor Diversification:** Diversify vendor partnerships to reduce dependency on a few suppliers and mitigate supply chain risks.
+* **Bulk Purchasing:** Leverage bulk purchasing advantages to maintain competitive pricing while optimizing inventory management.
+* **Inventory Optimization:** Optimize slow-moving inventory by adjusting purchase quantities, launching clearance sales, or revising storage strategies.
+* **Marketing & Distribution:** Enhance marketing and distribution strategies for low-performing vendors to drive higher sales volumes without compromising profit margins.
+* **Expected Outcome:** Implementing these recommendations will help the company achieve sustainable profitability, mitigate risks, and enhance overall operational efficiency.
